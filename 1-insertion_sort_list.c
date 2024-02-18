@@ -1,7 +1,7 @@
 #include "sort.h"
 /**
- * swap_list - function to help sort doubly-linked list.
- *@head: head of the list.
+ * swap_list - this function sorts doubly-linked list.
+ *@head: head paramter
  *@node1:it is the first node to be swapped/sorted.
  *@node2:it is the second node to be swapped/sorted.
  * Return:it is returns void.

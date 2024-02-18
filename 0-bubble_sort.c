@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
- * swap_bubble -it functions for sorting with swap method.
+ * swap_bubble -this functio sorts with swap method.
  *@a:it is the element to be swapped.
  *@b:it is the element to be swapped.
  * Return:it returns nothing.

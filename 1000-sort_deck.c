@@ -10,7 +10,6 @@ void sort_deck(deck_node_t **deck);
  * _strcmp -it compares two strings.
  * @s1:it is the first string to be compared.
  * @s2:it is the second string to be compared.
- *
  * Return: Positive byte difference if s1 > s2
  *         0 if s1 == s2
  *         Negative byte difference if s1 < s2

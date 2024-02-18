@@ -1,6 +1,6 @@
 #include "sort.h"
 /**
- * swap_bubble - function to swap/sort.
+ * swap_bubble - this function enables swaping/sorting.
  *@a:it is a variable to swap.
  *@b:it is a variable to swap.
  * Return:it returns void.
@@ -15,7 +15,7 @@ void swap_bubble(int *a, int *b)
 }
 
 /**
- * selection_sort -it is  sorting array via selection sort method.
+ * selection_sort - this function sorts  array via selection sort method.
  *@array:it is the array to be sorted.
  *@size:it is the size of array.
  * Return:it returns always 0.
